@@ -1,0 +1,2 @@
+# SSMclientm
+manage resolution
